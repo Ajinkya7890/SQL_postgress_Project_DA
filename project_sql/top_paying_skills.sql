@@ -1,6 +1,6 @@
 /*
 4.WHAT ARE THE TOP SKILLS BASED ON SALARY?
-*/
+*/ 
 SELECT 
     skills,
     ROUND(AVG(salary_year_avg), 0) avg_salary
