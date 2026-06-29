@@ -1,6 +1,6 @@
 /*
 3.WHAT ARE THE MOST IN-DEMAND SKILLS FOR DATA ANALYST JOBS?  
-*/
+*/ 
 
 SELECT 
     skills,
