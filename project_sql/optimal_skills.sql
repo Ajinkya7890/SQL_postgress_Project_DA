@@ -1,6 +1,6 @@
 /*
 5.WHAT ARE THE MOST OPTIMAL SKILLS TO LEARN?  
-*/
+*/ 
 
 SELECT
     skills_dim.skill_id,
